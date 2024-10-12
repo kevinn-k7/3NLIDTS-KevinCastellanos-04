@@ -96,35 +96,35 @@
             // 
             this.txtNombre.Location = new System.Drawing.Point(210, 55);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(100, 22);
+            this.txtNombre.Size = new System.Drawing.Size(164, 22);
             this.txtNombre.TabIndex = 5;
             // 
             // txtApellido
             // 
             this.txtApellido.Location = new System.Drawing.Point(210, 99);
             this.txtApellido.Name = "txtApellido";
-            this.txtApellido.Size = new System.Drawing.Size(100, 22);
+            this.txtApellido.Size = new System.Drawing.Size(164, 22);
             this.txtApellido.TabIndex = 6;
             // 
             // txtTelefono
             // 
             this.txtTelefono.Location = new System.Drawing.Point(210, 158);
             this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(100, 22);
+            this.txtTelefono.Size = new System.Drawing.Size(164, 22);
             this.txtTelefono.TabIndex = 7;
             // 
             // txtEdad
             // 
             this.txtEdad.Location = new System.Drawing.Point(210, 216);
             this.txtEdad.Name = "txtEdad";
-            this.txtEdad.Size = new System.Drawing.Size(100, 22);
+            this.txtEdad.Size = new System.Drawing.Size(164, 22);
             this.txtEdad.TabIndex = 8;
             // 
             // txtEstatura
             // 
             this.txtEstatura.Location = new System.Drawing.Point(210, 268);
             this.txtEstatura.Name = "txtEstatura";
-            this.txtEstatura.Size = new System.Drawing.Size(100, 22);
+            this.txtEstatura.Size = new System.Drawing.Size(164, 22);
             this.txtEstatura.TabIndex = 9;
             // 
             // BtnGuardar
